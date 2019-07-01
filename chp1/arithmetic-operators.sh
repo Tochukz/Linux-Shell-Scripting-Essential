@@ -1,5 +1,5 @@
 #!/bin/bash
-#Filename: atirhmetic-operator.sh
+#Filename: arithmetic-operator.sh
 #Description:  Using basic oassignment and arithmetic operattor
 
 num1=10 num2=5

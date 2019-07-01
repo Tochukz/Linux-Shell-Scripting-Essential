@@ -5,7 +5,7 @@
 echo "Current Bash Abs Path     - $BASH"
 echo "Bash Version              - $BASH_VERSION"
 echo "Bash ProcessID            - $BASHPID"
-echo "Effectiv User ID          - $EUID"
+echo "Effective User ID         - $EUID"
 echo "User's Home Directory     - $HOME"
 echo "Hostname                  - $HOST"
 echo "System's PATH             - $PATH"
